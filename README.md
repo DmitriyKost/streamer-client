@@ -1,0 +1,3 @@
+# About
+Client for [streamer](https://github.com/Sergtco/streamer)
+# Work in progress...
